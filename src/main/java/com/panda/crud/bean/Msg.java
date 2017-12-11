@@ -62,5 +62,5 @@ public class Msg {
 	public void setExtend(Map<String, Object> extend) {
 		this.extend = extend;
 	}
-	//测试github功能
+	//测试github功能 
 }
